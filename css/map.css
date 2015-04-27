@@ -1,0 +1,164 @@
+.version.map /* version checker */
+{
+	color: #000015;
+	background-color: #770AFC;
+}
+
+@-ms-viewport
+{
+	width: 360px;
+}
+
+@-webkit-viewport
+{
+	width: 360px;
+}
+
+@-o-viewport
+{
+	width: 360px;
+}
+
+@-moz-viewport
+{
+	width: 360px;
+}
+
+@viewport
+{
+	width: 360px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 360px;
+	min-height: 574px;
+	background-image: none;
+	border-style: none;
+	border-color: #001F9D;
+	background-color: transparent;
+}
+
+#u15093
+{
+	z-index: 2;
+	min-height: 548px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u15093-bw
+{
+	z-index: 2;
+	min-height: 548px;
+	margin-top: -1px;
+}
+
+#pu15101-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 537px;
+	margin-left: 119px;
+}
+
+#u15101-4
+{
+	z-index: 10;
+	width: 65px;
+	min-height: 27px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0000FF;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	line-height: 29px;
+	text-align: center;
+	font-size: 24px;
+	color: #1D00E6;
+	font-weight: bold;
+	margin-left: 28px;
+	position: relative;
+}
+
+#u15101-4::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	z-index: -1;
+	top: -1px;
+	left: -1px;
+	bottom: -1px;
+	right: -1px;
+	border-radius: 5px;
+	box-shadow: inset 3px 3px 4px rgba(255,255,255,0.75), inset -3px -3px 4px rgba(0,0,0,0.75);
+}
+
+#u15101-4:hover
+{
+	-pie-box-shadow: 6px 6px 8px #7F7FFF;
+	box-shadow: 6px 6px 8px rgba(0,0,255,0.5);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 27px;
+	width: 65px;
+	margin: 0px 0px 0px 28px;
+}
+
+#u15101-4:hover::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	z-index: -1;
+	top: -1px;
+	left: -1px;
+	bottom: -1px;
+	right: -1px;
+	border-radius: 5px;
+	box-shadow: inset 0px 0px 8px rgba(0,0,255,0.5), inset 0px 0px 8px rgba(0,0,255,0.5), inset 3px 3px 4px rgba(255,255,255,0.75), inset -3px -3px 4px rgba(0,0,0,0.75);
+}
+
+#u29585-4
+{
+	z-index: 6;
+	width: 122px;
+	min-height: 18px;
+	top: -5px;
+	margin-bottom: -5px;
+}
+
+#u26402
+{
+	z-index: 4;
+	height: 40px;
+	width: 41px;
+	margin-bottom: -6px;
+	margin-right: -10000px;
+	margin-top: 547px;
+	left: 239px;
+}
+
+body
+{
+	position: relative;
+	min-width: 360px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -536px;
+}
+

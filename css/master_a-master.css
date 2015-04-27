@@ -1,0 +1,19 @@
+#u29585-4
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u26402
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u26402.png") no-repeat 6px 6px;
+}
+
+#u26402:hover
+{
+	background: url("../images/u26402-r.png") no-repeat 0px 0px;
+}
+
